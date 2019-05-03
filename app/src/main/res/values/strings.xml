@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ddurbin_TEMP_Final</string>
+    <string name="welcome_screen">Welcome to Memory!</string>
+    <string name="play_button">Play</string>
+    <string name="instructions_button">Instructions</string>
+</resources>
