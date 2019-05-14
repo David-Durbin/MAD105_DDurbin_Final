@@ -14,7 +14,8 @@ public class Main2Activity extends AppCompatActivity {
     ImageView curView = null;
     private int pairCount = 0;
     final int[] drawable = new int[]{R.drawable.sample_1,R.drawable.sample_2,R.drawable.sample_3,
-    R.drawable.sample_4,R.drawable.sample_5,R.drawable.sample_6,R.drawable.sample_7};
+    R.drawable.sample_4,R.drawable.sample_5,R.drawable.sample_6,R.drawable.sample_7,
+            R.drawable.sample_08};
 
     int[] pos = {0, 1, 2, 3, 4, 5, 6, 7, 0, 1, 2, 3, 4, 5, 6, 7};
     int currentPosition = -1;
