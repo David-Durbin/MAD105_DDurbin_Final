@@ -46,9 +46,9 @@ public class ImageAdapter extends BaseAdapter {
         else
         {
             imageView = (ImageView)convertView;
-            imageView.setImageResource(R.drawable.back);
         }
 
+        imageView.setImageResource(R.drawable.back);
         return imageView;
     }
 }
